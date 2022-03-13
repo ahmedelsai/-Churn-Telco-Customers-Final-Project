@@ -19,6 +19,7 @@ In this project, I will build dashboards that will Analyze telecommunication com
 * SSRS
 * POWER BI
 * EXCEL
+* power point
 # Dashboards (Power BI)
 ![Screenshot_2](https://user-images.githubusercontent.com/70976091/153680609-eb8b0db9-1b30-40f7-a6ce-bf5e5f6b544b.png)
 
