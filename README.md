@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/84546354/158067363-e7856052-b58e-464d-b0c0-a61466c02621.png)
+
+In this project, I will build dashboards that will Analyze telecommunication company's data To determine the reasons of churning out from it!
 
 # project steps :
 1. question under analysis
