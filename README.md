@@ -1,15 +1,22 @@
 
-# Processes  : 
-### 1-  Data Sources
-    https://www.kaggle.com/yeanzc/telco-customer-churn-ibm-dataset
-### 2- Data Gathering
-### 3- Data Preprocessing 
-### 4- Data Integration [SSIS]
-### 5- Data Analysis & Creating Cubes  [SSAS] 
-   ![image](https://user-images.githubusercontent.com/70976091/153679556-8dc9d871-866f-4f18-896e-6f2905399d7e.png)
-### 6- Paginated Reports [SSRS]
-### 7- Dashboards (Power BI)
-## Dashboards (Power BI)
+# project steps :
+1. question under analysis
+2. data acquisition
+3. data cleaning
+4. data warehouse design and ETL
+5. cubes
+6. paginated reports
+7. dashboards
+8. recommendations
+
+# technologies used
+* sql server
+* SSIS
+* SSAS
+* SSRS
+* POWER BI
+* EXCEL
+# Dashboards (Power BI)
 ![Screenshot_2](https://user-images.githubusercontent.com/70976091/153680609-eb8b0db9-1b30-40f7-a6ce-bf5e5f6b544b.png)
 
 
